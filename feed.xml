@@ -3,7 +3,7 @@
     <title>Nick&#x27;s Blog</title>
     <link href="https://www.222000.best/feed.xml" rel="self" />
     <link href="https://www.222000.best" />
-    <updated>2023-12-30T18:22:58+08:00</updated>
+    <updated>2024-04-18T22:32:51+08:00</updated>
     <author>
         <name>Nick</name>
     </author>
@@ -18,6 +18,7 @@
         <id>https://www.222000.best/sui-xiang-20220514.html</id>
         <media:content url="https://www.222000.best/media/posts/4/2153816028654600192.heic" medium="image" />
             <category term="随想笔记"/>
+            <category term="归档"/>
 
         <updated>2023-12-30T18:22:50+08:00</updated>
             <summary></summary>
@@ -31,6 +32,7 @@
         <link href="https://www.222000.best/2022-zong-jie.html"/>
         <id>https://www.222000.best/2022-zong-jie.html</id>
         <media:content url="https://www.222000.best/media/posts/3/2153816062989172736.heic" medium="image" />
+            <category term="归档"/>
             <category term="年度总结"/>
 
         <updated>2023-12-30T18:20:56+08:00</updated>
@@ -45,6 +47,7 @@
         <link href="https://www.222000.best/2021.html"/>
         <id>https://www.222000.best/2021.html</id>
         <media:content url="https://www.222000.best/media/posts/2/2153816102776340480.heic" medium="image" />
+            <category term="归档"/>
             <category term="年度总结"/>
 
         <updated>2023-12-30T18:18:17+08:00</updated>
