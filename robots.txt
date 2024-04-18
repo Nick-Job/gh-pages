@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://nick-job.github.io/sitemap.xml
+Sitemap: https://www.222000.best/sitemap.xml

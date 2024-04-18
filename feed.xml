@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Nick&#x27;s Blog</title>
-    <link href="https://nick-job.github.io/feed.xml" rel="self" />
-    <link href="https://nick-job.github.io" />
+    <link href="https://www.222000.best/feed.xml" rel="self" />
+    <link href="https://www.222000.best" />
     <updated>2023-12-30T18:22:58+08:00</updated>
     <author>
         <name>Nick</name>
     </author>
-    <id>https://nick-job.github.io</id>
+    <id>https://www.222000.best</id>
 
     <entry>
         <title>随想-2022.05.14</title>
         <author>
             <name>Nick</name>
         </author>
-        <link href="https://nick-job.github.io/sui-xiang-20220514.html"/>
-        <id>https://nick-job.github.io/sui-xiang-20220514.html</id>
-        <media:content url="https://nick-job.github.io/media/posts/4/2153816028654600192.heic" medium="image" />
+        <link href="https://www.222000.best/sui-xiang-20220514.html"/>
+        <id>https://www.222000.best/sui-xiang-20220514.html</id>
+        <media:content url="https://www.222000.best/media/posts/4/2153816028654600192.heic" medium="image" />
             <category term="随想笔记"/>
             <category term="Archives"/>
 
         <updated>2023-12-30T18:22:58+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nick-job.github.io/media/posts/4/2153816028654600192.heic" alt="" />
+                        <img src="https://www.222000.best/media/posts/4/2153816028654600192.heic" alt="" />
                     Section 1 年少的时候，对于雨天淋雨排斥不已 当长大了，才发现这似乎是一种洗礼或是获得一种安宁？ 今天公交线路改道了，停靠站也改了。 停靠站既熟悉又陌生，从停靠站走回家的这段路也是一条既熟悉又陌生的路。 好多年前在这条路上，迎着春日朝阳、迎着落日余晖、在阳光下奋力的奔跑着。 习惯性的走进那家便利店，店还是那个店，店员已早不是当初那个人了，或许早已物是人非。 店里早已没有我爱吃的口香糖，那口香糖早就停产了。 剩下以前很爱喝饮料，这种饮料到处都有的卖，即使回到这里买，可早就不是我熟悉的味道了。 每天都经过的十字路口，但今晚路过却想起好多好多年前初中学过的一首诗 《未选择的路》——弗罗斯特 黄色的树林里分出两条路，可惜我不能同时去涉足， 我在那路口久久伫立，我向着一条路极目望去，直到它消失在丛林深处。 但我选了另外一条路，它荒草萋萋，十分幽寂，显得更诱人，更美丽； 虽然在这条小路上，很少留下旅人的足迹。那天清晨落叶满地，两条路都未经脚印污染。 啊，留下一条路等改日再见！但我知道路径延绵无尽头，恐怕我难以再回返。 也许多少年后在某个地方，我将轻声叹息将往事回顾，一片树林里分出两条路 而我选择了人迹更少的一条，从此决定了我一生的道路。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nick-job.github.io/media/posts/4/2153816028654600192.heic" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.222000.best/media/posts/4/2153816028654600192.heic" class="type:primaryImage" alt="" /></p>
                 <h1 id="section-1"><em>Section 1</em></h1>
 <p>年少的时候，对于雨天淋雨排斥不已</p>
 <p>当长大了，才发现这似乎是一种洗礼或是获得一种安宁？</p>
@@ -59,22 +59,22 @@
         <author>
             <name>Nick</name>
         </author>
-        <link href="https://nick-job.github.io/2022-zong-jie.html"/>
-        <id>https://nick-job.github.io/2022-zong-jie.html</id>
-        <media:content url="https://nick-job.github.io/media/posts/3/2153816062989172736.heic" medium="image" />
+        <link href="https://www.222000.best/2022-zong-jie.html"/>
+        <id>https://www.222000.best/2022-zong-jie.html</id>
+        <media:content url="https://www.222000.best/media/posts/3/2153816062989172736.heic" medium="image" />
             <category term="年度总结"/>
             <category term="Archives"/>
 
         <updated>2023-12-30T18:21:11+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nick-job.github.io/media/posts/3/2153816062989172736.heic" alt="" />
+                        <img src="https://www.222000.best/media/posts/3/2153816062989172736.heic" alt="" />
                     Key Milestones 学习Docker、Synology使用。 深入学习了Synology系统中Docker、套件中心、Aliyunpan WebDAV的使用 基于HomeAssistant的小米智能家居的接入。 接入了美的空调、小米洗衣机、小米电视。 基于小米电视学习KODI的使用。 深入学习在小米电视中使用KODI实现影院功能。 （通过Aliyunpan WebDAV播放4K高清晰度高解析度电影） 基于x86架构黑群晖的安装方法。 通过ESXI安装基于倍控J4125 2.5G四网口设备的Synology系统。 基于INTEL芯片的[Hackintosh]安装。 INTEl第十代智能英特尔® 酷睿™ i5 处理器i5-10400 AMD Radeon™ RX 5500 XT GPU 基于AMD芯片的[Hackintosh]安装。 AMD Ryzen™ 5 5600X AMD Radeon™ RX 6650 XT 建立个人网站https://nick-job.github.io/。 建立基于Synology、DDNSTO服务的服务器项目。 eg： 网页端有： QL服务器脚本后台。 Synology服务器后台 XXQG - WEB服务器后台 QL服务器的COOKIE自动获取&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nick-job.github.io/media/posts/3/2153816062989172736.heic" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.222000.best/media/posts/3/2153816062989172736.heic" class="type:primaryImage" alt="" /></p>
                 <h1 id="key-milestones"><em>Key Milestones</em></h1>
 <ul>
 <li><p><input checked="" disabled="" type="checkbox"> 
@@ -215,22 +215,22 @@ XXQG-WEB项目接入，建立了基于STUDY-XXQG系统的XXQG-WEB项目，通过
         <author>
             <name>Nick</name>
         </author>
-        <link href="https://nick-job.github.io/2021.html"/>
-        <id>https://nick-job.github.io/2021.html</id>
-        <media:content url="https://nick-job.github.io/media/posts/2/2153816102776340480.heic" medium="image" />
+        <link href="https://www.222000.best/2021.html"/>
+        <id>https://www.222000.best/2021.html</id>
+        <media:content url="https://www.222000.best/media/posts/2/2153816102776340480.heic" medium="image" />
             <category term="年度总结"/>
             <category term="Archives"/>
 
         <updated>2023-12-30T18:20:11+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nick-job.github.io/media/posts/2/2153816102776340480.heic" alt="" />
+                        <img src="https://www.222000.best/media/posts/2/2153816102776340480.heic" alt="" />
                     Key Milestones 学习Docker使用。 基于Homekit的遥控台灯，风扇。 基于x86架构Openwrt的安装。 基于x86架构黑群晖的安装方法。 基于Intel芯片的[Hackintosh]安装。 基于AMD芯片的[Hackintosh]安装。 建立个人网站https://nick-job.github.io/。 ProxmoxVE系统安装 ProxmoxVE虚拟环境黑群晖NAS安装。 ProxmoxVE硬件直通。 HomeAssistant的安装。 小米智能家居接入HomeAssistant。 自制ESP8266智能开关接入HomeAssistant。 这一年，事事无成。我意识到，我在我最在乎的事情上并没有进步。 浪费了很多时间，总是在瞎折腾一些事情。 对自己以后的路“无规划”、“无目标”。 总是在为自己的无能找借口、总是在给自己的不努力找理由。 立下了很多Flag、立下了很多目标。 但都没有认认真真去落实，没有付出与之相对应的努力。 2022年，改变自己的内心，不断的完善自己。 对自己的人生需要有一个规划，并且努力、专注前行。 确定一个一个目标，努力专注的完成它。 把运动升级到跟工作同样重要的地位。 每天给自己一个脱离手机的时间。 找到你当前阶段的难点，去克服它。 感激朋友们给予我的欢乐，感激父母对于我的宽容，2021，很高兴遇见你们！🤝。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nick-job.github.io/media/posts/2/2153816102776340480.heic" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.222000.best/media/posts/2/2153816102776340480.heic" class="type:primaryImage" alt="" /></p>
                 <h1 id="key-milestones"><em>Key Milestones</em></h1>
 <ul>
 <li><p><input checked="" disabled="" type="checkbox"> 
@@ -328,20 +328,20 @@ HomeAssistant的安装。</p>
         <author>
             <name>Nick</name>
         </author>
-        <link href="https://nick-job.github.io/guan-yu.html"/>
-        <id>https://nick-job.github.io/guan-yu.html</id>
-        <media:content url="https://nick-job.github.io/media/posts/1/2153816014050033664.heic" medium="image" />
+        <link href="https://www.222000.best/guan-yu.html"/>
+        <id>https://www.222000.best/guan-yu.html</id>
+        <media:content url="https://www.222000.best/media/posts/1/2153816014050033664.heic" medium="image" />
 
         <updated>2023-12-30T17:55:11+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nick-job.github.io/media/posts/1/2153816014050033664.heic" alt="" />
-                    欢迎来到我的小站呀，很高兴遇见你！🤝 This is my personal website, recording some of my learning process, some life impressions, Record and learn some of the gadgets I tossed around. 喜欢奇奇怪怪的东西 Mail：&#x4e;&#105;&#x63;&#x6b;&#x5f;&#x4a;&#111;&#x62;&#x40;&#49;&#x36;&#51;&#46;&#99;&#111;&#109;
+                        <img src="https://www.222000.best/media/posts/1/2153816014050033664.heic" alt="" />
+                    欢迎来到我的小站呀，很高兴遇见你！🤝 This is my personal website, recording some of my learning process, some life impressions, Record and learn some of the gadgets I tossed around. 喜欢奇奇怪怪的东西 Mail：&#78;&#x69;&#x63;&#x6b;&#x5f;&#x4a;&#111;&#98;&#x40;&#x31;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nick-job.github.io/media/posts/1/2153816014050033664.heic" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.222000.best/media/posts/1/2153816014050033664.heic" class="type:primaryImage" alt="" /></p>
                 <blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
@@ -356,7 +356,7 @@ Record and learn some of the gadgets I tossed around.</em></p>
 <h1 id="⛹-兴趣爱好">⛹ 兴趣爱好</h1>
 <p>喜欢奇奇怪怪的东西</p>
 <h1 id="📬-联系我呀">📬 联系我呀</h1>
-<p><em>Mail：<a href="mailto:&#x4e;&#105;&#x63;&#x6b;&#x5f;&#x4a;&#111;&#x62;&#x40;&#49;&#x36;&#51;&#46;&#99;&#111;&#109;">&#x4e;&#105;&#x63;&#x6b;&#x5f;&#x4a;&#111;&#x62;&#x40;&#49;&#x36;&#51;&#46;&#99;&#111;&#109;</a></em></p>
+<p><em>Mail：<a href="mailto:&#78;&#x69;&#x63;&#x6b;&#x5f;&#x4a;&#111;&#98;&#x40;&#x31;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;">&#78;&#x69;&#x63;&#x6b;&#x5f;&#x4a;&#111;&#98;&#x40;&#x31;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;</a></em></p>
 
             ]]>
         </content>
